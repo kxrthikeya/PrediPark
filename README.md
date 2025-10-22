@@ -1,7 +1,6 @@
 # PrediPark Concept
 
 ### 🔥 1. “Sensorless” Prediction Using Smartphone Telemetry
----
 Concept:
 Everyone else will assume you need IoT sensors or cameras at the parking lot.
 You can flip that: predict parking slot availability using only user smartphone data.
@@ -17,7 +16,6 @@ How:
     •    Perfect narrative: “We use collective mobility data to infer parking occupancy.”
 ---
 ### ⚙️ 2. “Adaptive Pricing + Gamified Incentives”
-
 Add a micro-economy to your parking marketplace.
 
 Mechanism:
@@ -28,11 +26,8 @@ Mechanism:
 ✅ Why it’s special:
     •    Adds behavioral economics + gamification.
     •    Judges love it — you’re optimizing both tech and human behavior.
-
 ---
-
 ### 🧠 3. “Zero-Wait Experience” with Predictive Queue Allocation
-
 Instead of just booking a slot, your system predicts how long until it’s free and queues users automatically.
 
 Flow:
@@ -44,9 +39,7 @@ User B auto-assigned slot ETA 9:46.
 ✅ Why it’s special:
     •    Feels futuristic and intelligent.
     •    Solves the “I booked but still waiting” issue that plagues existing apps.
-
 ---
-
 ### 🌍 4. “Sustainability Dashboard” — measurable urban benefit
 
 Show how your prediction system reduces city congestion.
