@@ -1,3 +1,21 @@
+# PrediPark
+
+### This project uses Flutter
+
+Below are the steps to install flutter and initialize the environment
+
+Go to this URL to download flutter
+[Quick Flutter Setup](https://docs.flutter.dev/get-started/quick)
+
+For our project we are focusing on the web which we will later convert to mobile and desktops
+
+Clone the repository. Execute the following command in the terminal:
+```
+git clone 
+```
+
+
+
 # PrediPark Concept
 
 ### 🔥 1. “Sensorless” Prediction Using Smartphone Telemetry
